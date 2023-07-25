@@ -1,5 +1,13 @@
 # Assignment_Nimesa
-Assignment
+![Output6](https://github.com/Satyanarayana-varaprasad/Assignment_Nimesa/assets/79094606/4866f556-6aec-4406-96f3-c2d555ee6fa8)
+![Uploading Output5.PNG…]()
+![Uploading Output4.PNG…]()
+![Uploading Output3.PNG…]()
+![Uploading Output2.PNG…]()
+
+[Uploading Output1.PNG…]()
+![Uploading Output 1.PNG…]()
+
 https://samples.openweathermap.org/data/2.5/forecast/hourly?q=London,us&appid=b6907d289e10d714a6e88b30761fae22
 The above API is the REST GET API
 Which gives you the response in JSON format and hourly weather forecast of London Location
