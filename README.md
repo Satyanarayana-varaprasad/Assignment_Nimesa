@@ -11,6 +11,9 @@ Here the program will give the below results
 0. Exit
 
 If the user press 1, Prompt the user for the date then print the temp of the input date.
+
 If the user press 2, Prompt the user for the date then print the wind.speed of the input date.
+
 If the user press 3, Prompt the user for the date then print the pressure of the input date.
+
 If the user press 0, Terminate the program.
